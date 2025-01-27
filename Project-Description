@@ -1,0 +1,64 @@
+### Problem Statement
+
+## Business Context:
+We are "Influence Boost Inc.," an influencer management company seeking to expand our
+network by attracting more influencers to join our platform. Due to a limited marketing
+budget, traditional advertising channels are not viable for us. To overcome this, we aim to
+offer a solution that addresses a significant pain point for influencers, thereby encouraging
+them to engage with our company.
+
+## Business Problem:
+1. Need to Attract More Influencers:
+    Objective: Increase our influencer clientele to enhance our service offerings to brands and stay competitive.
+    Challenge: Limited marketing budget restricts our ability to reach and engage potential influencer clients through conventional means.
+
+2. Identifying the Influencer Pain Point:
+    Understanding Influencer Challenges: To effectively attract influencers, we need to understand and address the key challenges they face.
+    Research Insight: Influencers, especially those with large followings, struggle with managing and interpreting the vast amount of feedback they receive via comments on their content.
+
+3. Big Influencers Face Issues with Comment Analysis:
+    Volume of Comments: High-profile influencers receive thousands of comments on their videos, making manual analysis impractical.
+    Time Constraints: Influencers often lack the time to sift through comments to extract meaningful insights.
+    Impact on Content Strategy: Without efficient comment analysis, influencers miss opportunities to understand audience sentiment, address concerns, and tailor their content effectively.
+
+### My Solution
+To directly address the significant pain point faced by big influencers—managing and interpreting vast amounts of comment data—we present the "Influencer Insights" Chrome plugin. This tool is designed to empower influencers by providing in-depth analysis of their YouTube video comments, helping them make data-driven decisions to enhance their content and engagement strategies.
+
+<!-- Key Features of the Plugin: -->
+
+1. Sentiment Analysis of Comments.
+    a. Real-Time Sentiment Classification:
+        The plugin performs real-time analysis of all comments on a YouTube video, classifying each as positive, neutral, or negative.
+
+    b. Sentiment Distribution Visualization:
+        Displays the overall sentiment distribution with intuitive graphs or charts (e.g., pie charts or bar graphs showing percentages like 70% positive, 20% neutral, 10% negative).
+
+    c. Detailed Sentiment Insights:
+        Allows users to drill down into each sentiment category to read specific comments classified under it.
+
+
+    d. Trend Tracking:
+        Monitors how sentiment changes over time, helping influencers identify how different content affects audience perception.
+
+2. Summary of Comments.
+    a. Automated Comment Summarization:
+        Utilizes natural language processing algorithms to generate concise summaries of the most discussed topics within the comments.
+
+    b. Highlight Key Themes:
+        Identifies and summarizes common feedback, suggestions, or concerns raised by the audience.
+    
+3. Additional Comment Analysis Features.
+    a. Word Cloud Visualization:
+        - Generates a word cloud showcasing the most frequently used words and phrases in the comments.
+        - Helps quickly identify trending topics, keywords, or recurring themes.
+
+    b. Average Comment Length:
+        - Calculates and displays the average length of comments, indicating the depth of audience engagement.
+
+    c. Spam and Troll Detection:
+        - Filters out spam, bot-generated comments, or potentially harmful content to streamline the analysis.
+
+    d. Export Data Functionality:
+        - Enables users to export analysis reports and visualizations in various formats (e.g., PDF, CSV) for further use or sharing with team members.
+
+### Challenges
