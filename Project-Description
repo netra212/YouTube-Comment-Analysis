@@ -62,3 +62,18 @@ To directly address the significant pain point faced by big influencers—managi
         - Enables users to export analysis reports and visualizations in various formats (e.g., PDF, CSV) for further use or sharing with team members.
 
 ### Challenges
+1. Data 
+    a. Availability.
+    b. Lack of general kind of dataset.
+    c. Multi-language comments.
+    d. Spam and bot comments.
+    e. Slang emoji and informal comments.
+    f. Sarcastic comments.
+    g. Evolving language usage (e.g. sick) -> drift.
+    h. Privacy and data compliance.
+
+2.  Building a efficient model
+    a. Data noise, variability, class imbalance
+
+3. Latency
+4. User Experience
