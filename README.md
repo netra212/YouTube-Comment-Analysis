@@ -68,14 +68,10 @@ The **Influencer Insights Chrome Plugin** provides influencers with an intuitive
 4. **User Experience Enhancements:**
    - Smooth and intuitive Chrome extension interface.
    - Support for multilingual comment analysis.
-<<<<<<< HEAD bfb4f53
-
-======= 
 
 ---
 ## Folder Structure
-
----
+--- 
 
 ## Technologies Used
 
@@ -133,27 +129,31 @@ The **Influencer Insights Chrome Plugin** provides influencers with an intuitive
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/Influencer-Insights.git
-   cd Influencer-Insights
+   git clone https://github.com/netra212/YouTube-Comment-Analysis.git
+   cd YouTube-Comment-Analysis
 
 
 2. Install dependencies:
+    
     pip install -r requirements.txt
 
 3. Setup Chrome extension:
+    
     Navigate to src/chrome_extension/ and load the extension in Chrome via Developer Mode.
 
 4. Run backend services:
+    
     python src/api/app.py
 
 5. Access the plugin and analyze your content!
 
 
 ### Contributing
-We welcome contributions! Please read our Contributing Guidelines for details on the process.
+
+    We welcome contributions! Please read our Contributing Guidelines for details on the process.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+    This project is licensed under the MIT License. See the LICENSE file for details.
 
-    This README provides a clear structure, detailed information, and a standard folder layout for professional project documentation.
+        This README provides a clear structure, detailed information, and a standard folder layout for professional project documentation.
 
