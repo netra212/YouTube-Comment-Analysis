@@ -68,3 +68,91 @@ The **Influencer Insights Chrome Plugin** provides influencers with an intuitive
 4. **User Experience Enhancements:**
    - Smooth and intuitive Chrome extension interface.
    - Support for multilingual comment analysis.
+<<<<<<< HEAD bfb4f53
+
+======= 
+
+---
+
+---
+
+## Technologies Used
+
+### Programming and Libraries
+- Python (Pandas, NumPy, scikit-learn, spaCy, NLTK)
+- JavaScript, HTML, CSS (Chrome Extension)
+
+### Machine Learning and NLP
+- scikit-learn, Optuna, spaCy, MLflow
+
+### Data Versioning and Management
+- DVC, AWS S3
+
+### Cloud Infrastructure
+- AWS (EC2, S3, CloudWatch, IAM)
+
+### CI/CD and DevOps
+- GitHub Actions, Docker, AWS CodeDeploy
+
+### Visualization
+- Matplotlib, Seaborn, D3.js
+
+---
+
+## Workflow
+
+1. **Data Collection**
+   - Gather raw YouTube comment data via API.
+
+2. **Data Preprocessing**
+   - Handle noise, imbalanced classes, multi-language comments, and informal texts.
+
+3. **EDA**
+   - Perform Exploratory Data Analysis to understand patterns.
+
+4. **Model Development**
+   - Train, tune, and evaluate sentiment analysis and summarization models.
+
+5. **Chrome Plugin Development**
+   - Build the frontend interface for user interaction.
+
+6. **Deployment**
+   - Deploy the plugin and backend APIs using AWS.
+
+---
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+- Node.js and npm
+- Docker installed
+- AWS account for cloud setup
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/Influencer-Insights.git
+   cd Influencer-Insights
+
+
+2. Install dependencies:
+    pip install -r requirements.txt
+
+3. Setup Chrome extension:
+    Navigate to src/chrome_extension/ and load the extension in Chrome via Developer Mode.
+
+4. Run backend services:
+    python src/api/app.py
+
+5. Access the plugin and analyze your content!
+
+
+### Contributing
+We welcome contributions! Please read our Contributing Guidelines for details on the process.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+    This README provides a clear structure, detailed information, and a standard folder layout for professional project documentation.
+>>>>>>> bfb4f53 (Upadting README File)
