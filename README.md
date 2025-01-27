@@ -74,45 +74,6 @@ The **Influencer Insights Chrome Plugin** provides influencers with an intuitive
 
 ---
 ## Folder Structure
-Influencer-Insights/
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   ├── final/
-│
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── model_training.ipynb
-│   ├── experiments.ipynb
-│
-├── results/
-│   ├── visualizations/
-│   ├── reports/
-│
-├── logs/
-│   ├── error.log
-│   ├── training.log
-│
-├── src/
-│   ├── api/
-│   ├── chrome_extension/
-│   ├── utils/
-│
-├── tests/
-│   ├── unit_tests/
-│   ├── integration_tests/
-│
-├── models/
-│   ├── saved_models/
-│   ├── registry/
-│
-├── docker/
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── setup.py
-└── LICENSE
 
 ---
 
@@ -195,4 +156,4 @@ We welcome contributions! Please read our Contributing Guidelines for details on
 This project is licensed under the MIT License. See the LICENSE file for details.
 
     This README provides a clear structure, detailed information, and a standard folder layout for professional project documentation.
->>>>>>> bfb4f53 (Upadting README File)
+
