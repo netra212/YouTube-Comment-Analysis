@@ -77,3 +77,18 @@ To directly address the significant pain point faced by big influencers—managi
 
 3. Latency
 4. User Experience
+
+<!-- Workflow -->
+
+1.Data collection
+2.Data Preprocessing
+3.EDA
+4.Model building, Hyperparameter Tuning & Evaluation alongside Experiment Tracking
+5.Building a DVC pipeline
+6.Registering the model
+7.Building the API using Flask
+8.Development of Chrome Plugin
+9.Setting up CI/CD pipeline
+10.Testing
+11.Building the Docker image and pushing to hub
+12. Deployment using AWS
