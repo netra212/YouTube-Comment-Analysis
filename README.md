@@ -73,4 +73,43 @@ The **Influencer Insights Chrome Plugin** provides influencers with an intuitive
 
 ## Folder Structure
 
-Influencer-Insights/ │ ├── data/ │ ├── raw/ # Raw datasets │ ├── processed/ # Preprocessed datasets │ ├── final/ # Final datasets used in the project │ ├── notebooks/ │ ├── EDA.ipynb # Exploratory Data Analysis notebook │ ├── model_training.ipynb # Model building and training notebook │ ├── experiments.ipynb # Experiment tracking and testing │ ├── results/ │ ├── visualizations/ # Generated visualizations like graphs, word clouds │ ├── reports/ # Final analysis reports │ ├── logs/ │ ├── error.log # Logs for errors │ ├── training.log # Logs for model training │ ├── src/ │ ├── api/ # Flask or FastAPI backend code │ ├── chrome_extension/ # Chrome extension frontend code │ ├── utils/ # Helper functions and utilities │ ├── tests/ │ ├── unit_tests/ # Unit test cases │ ├── integration_tests/ # Integration test cases │ ├── models/ │ ├── saved_models/ # Trained model artifacts │ ├── registry/ # Model versions tracked via MLflow │ ├── docker/ # Docker-related configurations │ ├── .gitignore # Git ignore file ├── README.md # Project documentation ├── requirements.txt # Python dependencies ├── setup.py # Setup file for the Python package ├── LICENSE # License information
+Influencer-Insights/
+│
+├── data/                            # Data-related folders
+│   ├── raw/                         # Raw datasets
+│   ├── processed/                   # Preprocessed datasets
+│   ├── final/                       # Final datasets used in the project
+│
+├── notebooks/                       # Jupyter Notebooks for analysis and modeling
+│   ├── EDA.ipynb                    # Exploratory Data Analysis notebook
+│   ├── model_training.ipynb         # Model building and training notebook
+│   ├── experiments.ipynb            # Experiment tracking and testing
+│
+├── results/                         # Results from experiments and analysis
+│   ├── visualizations/              # Generated visualizations like graphs, word clouds
+│   ├── reports/                     # Final analysis reports
+│
+├── logs/                            # Logs for various operations
+│   ├── error.log                    # Logs for errors
+│   ├── training.log                 # Logs for model training
+│
+├── src/                             # Source code for backend and utilities
+│   ├── api/                         # Flask or FastAPI backend code
+│   ├── chrome_extension/            # Chrome extension frontend code
+│   ├── utils/                       # Helper functions and utilities
+│
+├── tests/                           # Test cases for the project
+│   ├── unit_tests/                  # Unit test cases
+│   ├── integration_tests/           # Integration test cases
+│
+├── models/                          # Models and model-related artifacts
+│   ├── saved_models/                # Trained model artifacts
+│   ├── registry/                    # Model versions tracked via MLflow
+│
+├── docker/                          # Docker-related configurations
+│
+├── .gitignore                       # Git ignore file
+├── README.md                        # Project documentation
+├── requirements.txt                 # Python dependencies
+├── setup.py                         # Setup file for the Python package
+└── LICENSE                          # License information
