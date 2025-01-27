@@ -73,6 +73,46 @@ The **Influencer Insights Chrome Plugin** provides influencers with an intuitive
 ======= 
 
 ---
+## Folder Structure
+Influencer-Insights/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   ├── final/
+│
+├── notebooks/
+│   ├── EDA.ipynb
+│   ├── model_training.ipynb
+│   ├── experiments.ipynb
+│
+├── results/
+│   ├── visualizations/
+│   ├── reports/
+│
+├── logs/
+│   ├── error.log
+│   ├── training.log
+│
+├── src/
+│   ├── api/
+│   ├── chrome_extension/
+│   ├── utils/
+│
+├── tests/
+│   ├── unit_tests/
+│   ├── integration_tests/
+│
+├── models/
+│   ├── saved_models/
+│   ├── registry/
+│
+├── docker/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── setup.py
+└── LICENSE
 
 ---
 
